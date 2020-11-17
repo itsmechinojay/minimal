@@ -1,0 +1,2 @@
+# minimal
+maven-training
